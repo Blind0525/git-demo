@@ -1,11 +1,9 @@
 hot-fix 瞎子
-hello blind
-hello blind
-hello blind
-hello blind
-hello blind
+hot-fix 产生冲突了吗
 
-hot-fix 的产生冲突
-
+hello blind
+hello blind
+hello blind
+hello blind
 hot-fix 倒数2
 hot-fix 倒数1
