@@ -1,12 +1,9 @@
 hot-fix 瞎子
-产生冲突了吗？
+master 产生冲突了吗？
 hello blind
 hello blind
 hello blind
 hello blind
 hello blind
-
-hot-fix 的产生冲突
-
 hot-fix 倒数2
 hot-fix 倒数1
